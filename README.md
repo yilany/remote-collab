@@ -1,4 +1,4 @@
-# remote-collab
+# Remote Collaboration with Github
 
 This repository contains tutorials and projects for remote collaboration using Github.
 

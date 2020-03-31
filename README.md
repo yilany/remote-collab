@@ -4,10 +4,10 @@ This repository contains tutorials and projects for remote collaboration using G
 
 ## Table of Contents
 
-1. Getting Started
-2. What is Github?
-3. What is it good for?
-4. What's with the name?
+1. [Getting Started](#getting-started)
+2. [What is Github?](#what-is-github)
+3. [What is it good for?](#what-is-it-good-for)
+4. [What's with the name?](#whats-with-the-name)
 
 ## Getting Started
 

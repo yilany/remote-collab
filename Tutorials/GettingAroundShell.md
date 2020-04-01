@@ -38,7 +38,7 @@ First, let's look at a few shell commands that tell us something about where we 
 
 - [Print Working Directory (`pwd`)](#print-working-directory-pwd)
 - [List Directory Contents (`ls`)](#list-directory-contents-ls)
-- [Open in Finder (`open .`)](#open-in-finder-open)
+- [Open in Finder (`open .`)](#open-in-finder-open-.)
 
 You can run these commands any time (and you are encouraged to!), because it can be an easy way to prevent yourself from doing something you may regret.
 
@@ -79,7 +79,7 @@ This should open up your current working directory (i.e., `.`) in the `Finder` a
 Now that we have tools to determine where we are, and what files and subdirectories we have to work with, let's look at some commands that allow us to move around in our file system. 
 
 - [Move down into a Subdirectory (`cd`)](#move-down-into-a-subdirectory-cd)
-- [Move up to the Parent Directory (`cd ..`)](#move-up-to-the-parent-directory)
+- [Move up to the Parent Directory (`cd ..`)](#move-up-to-the-parent-directory-cd-..)
 
 Again, we aren't modifying anything in the file system here, so what we are doing is not dangerous — don't fear!
 

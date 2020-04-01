@@ -19,6 +19,8 @@ Then, check out some of the tutorials in this repository:
 - [How to Edit a File on Github](Tutorials/Files.md)
 - [How to Use Markdown Syntax on Github](Tutorials/Markdown.md)
 
+Check out the [Glossary](Glossary.md) if there are any new terms for you.
+
 ## What is Github?
 
 Github is a platform originally intended for making it easier for developers to collaborate on code. Github can be thought of as consisting of two parts. It builds upon [Git](https://git-scm.com), a command line program that allows programmers to safely and efficiently make changes to their code and the code of others, and it adds a friendly user interface that creates a venue for discourse around these changes. Git and Github have had a profound effect on how code has been developed over the last 15 years.

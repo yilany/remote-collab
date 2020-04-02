@@ -10,7 +10,9 @@ Just about anywhere you can type into a text field on Github you can use [Markdo
 
 ## What is Markdown?
 
-Markdown is a lightweight text formatting syntax which makes it very easy to add basic styling to plain text documents. In fact, the document you are reading right now is written in Markdown. 
+Markdown is a lightweight text formatting syntax which makes it very easy to add basic styling to plain text documents. In fact, the document you are reading right now is written in Markdown.
+
+You can identify Markdown files in the wild by their `.md` suffix.
 
 If you are viewing this document on Github, you should see a menu like this above:
 

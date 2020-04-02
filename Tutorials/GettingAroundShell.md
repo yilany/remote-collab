@@ -30,7 +30,7 @@ You should see something like this:
 
 ![Empty terminal](img/empty_terminal.png)
 
-_I hope you don't see `bean@Jamess-Mac-mini`. However, what you do see should look familiar!_
+_I hope you don't see `bean@Jamess-Mac-mini` in your shell. However, what you do see should look familiar to you!_
 
 ## Where are We?
 

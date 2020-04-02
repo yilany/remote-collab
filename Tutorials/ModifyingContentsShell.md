@@ -65,5 +65,5 @@ Run the `ls` command to make sure the `TigerKingResearch` is deleted for good. Y
 
 _For more information, run the `man rm` command to see the manual documentation for the `rm` command. Press `q` to escape the `less` program!_
 
-⚠️ **You are walking into dangerous territory here with the `rm` command**. If you are not careful, you can inadvertently delete important files with no way of undoing your mistake. Even the pros make this mistake: see how [90% of Toy Story 2 was accidentally deleted using the `rm -rf *` command](https://thenextweb.com/media/2012/05/21/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good/).
+⚠️ **You are walking into dangerous territory here with the `rm` command**. If you are not careful, you can inadvertently delete important files with no way of undoing your mistake. Even the pros make this mistake: see [how 90% of Toy Story 2 was accidentally deleted using the `rm -rf *` command](https://thenextweb.com/media/2012/05/21/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good/).
 

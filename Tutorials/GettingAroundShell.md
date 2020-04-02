@@ -98,7 +98,7 @@ If you attempt to `cd` into a file, rather than a subdirectory, you will see the
 
 	cd: not a directory: name_of_some_file
 	
-_**Pro-tip**: If you type the first letter of a subdirectory (or a file) in the current working directory and press **tab**, the `Terminal` will autocomplete the rest of the name. This makes navigating around your file system a breeze._
+💡 _If you type the first letter of a subdirectory (or a file) in the current working directory and press **tab**, the `Terminal` will autocomplete the rest of the name. This makes navigating around your file system a breeze._
 
 ### Move up to the Parent Directory (`cd ..`)
 

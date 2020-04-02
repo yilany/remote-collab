@@ -5,7 +5,7 @@
 0. [Prereqs](#prereqs)
 1. [Create a Directory (`mkdir`)](#create-a-directory-mkdir)
 2. [Create a File (`touch`)](#create-a-file-touch)
-3. [Remote Contents (`rm`)](#remove-contents-rm)
+3. [Remove Contents (`rm`)](#remove-contents-rm)
 
 ## Prereqs
 

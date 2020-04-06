@@ -13,11 +13,19 @@ This repository contains tutorials and projects for remote collaboration using G
 
 In order to create or make changes to documents on Github, you need to [make an account](Tutorials/Accounts.md). This is free!
 
-Then, check out some of the tutorials in this repository:
+Then, check out some of the Github tutorials in this repository. All you need is the web browser you are currently using to dig into the features of Github.
 
 - [How to Create an Issue on Github](Tutorials/Issues.md)
 - [How to Edit a File on Github](Tutorials/Files.md)
 - [How to Use Markdown Syntax on Github](Tutorials/Markdown.md)
+
+If you find yourself wanting to work on a project that requires a little bit more flexibility than what is afforded by the Github user interface, check out the Git tutorials. You'll have to roll up your sleeves and download some software, but it'll be worth it.
+
+- [How to Install Git](Tutorials/InstallGit.md)
+- [How to Clone a Remote Repository with Git](Tutorials/Clone.md)
+- [How to Pull Changes from a Remote Repository with Git](Tutorials/Pull.md)
+- [How to Push Changes to a Remote Repository with Git](Tutorials/Push.md)
+- [How to Ignore Files in Git](Tutorials/Ignore.md)
 
 Check out the [Glossary](Glossary.md) if there are any new terms for you.
 

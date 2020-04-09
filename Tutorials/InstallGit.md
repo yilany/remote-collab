@@ -2,8 +2,6 @@
 
 ⚠️ *This document assumes that you are using macOS. If you are using a different operating system, please [file an issue](Issues.md) and check out the official [Git docs](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).*
 
-
-
 ## Table of Contents
 
 0. [Prereqs](#prereqs)

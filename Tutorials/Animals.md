@@ -51,7 +51,7 @@ For example, the image of the waddle of penguins jumping looks like:
 
 ## Add a Caption with Styled Text
 
-Now that we have embded an image into your repository, we need to add a brief description of our image. If there is a group of animals of a given type in the image, we will _italicize_ the [collective noun](https://en.wikipedia.org/wiki/List_of_animal_names).
+Now that we have embedded an image into your repository, we need to add a brief description of our image. If there is a group of animals of a given type in the image, we will _italicize_ the [collective noun](https://en.wikipedia.org/wiki/List_of_animal_names).
 
 In Markdown, normal text requires no fancy syntax: just write
 

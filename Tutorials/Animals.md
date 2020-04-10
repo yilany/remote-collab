@@ -70,4 +70,4 @@ Once you are happy with the contributions that you have made, leave a message (`
 
 Thanks for supporting this noble cause!
 
-💡_For more advanced file editing techniques, check out the [Editing Files Tutorial](https://github.com/learninglab-dev/remote-collab/blob/master/Tutorials/Files.md)._
+💡 _For more advanced file editing techniques, check out the [Editing Files Tutorial](https://github.com/learninglab-dev/remote-collab/blob/master/Tutorials/Files.md)._

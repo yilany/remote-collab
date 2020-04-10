@@ -25,6 +25,8 @@ In our new epoch of mandated remote work, it is a good time to learn from the fo
 
 In order to create or make changes to documents on Github, you need to [make an account](Tutorials/Accounts.md). This is free! And if you're a student, Github has a [Student Developer Pack](https://education.github.com/pack) if you want to explore additional developer tools.
 
+Start your journey with Github by helping out with our mission to [document as many (adorable) animals as possible](Tutorials/Animals.md).
+
 Then, check out some of the Github tutorials in this repository. All you need is the web browser you are currently using to dig into the features of Github.
 
 - [How to Create an Issue on Github](Tutorials/Issues.md)

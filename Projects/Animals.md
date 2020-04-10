@@ -4,6 +4,18 @@ In these uncertain times, it is of critical importance to maintain a repository 
 
 Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) animal images here.
 
+## Elephants
+
+![Those shoes!](https://media.giphy.com/media/SWKyABQ08mbXW/giphy.gif)
+
+Those shoes... enough said!
+
+## Moose
+
+![Moose going through snow](https://media.giphy.com/media/OK5bgtzJ5u2Fa/giphy.gif)
+
+Moose running through snow.
+
 ## Otters
 
 ![Washing and hey](https://media.giphy.com/media/73v1HppfeWkEg/giphy.gif)
@@ -16,20 +28,8 @@ An otter grooming, and just saying "hey."
 
 A _waddle_ of penguins jumping.
 
-## Moose
-
-![Moose going through snow](https://media.giphy.com/media/OK5bgtzJ5u2Fa/giphy.gif)
-
-Moose running through snow.
-
 ---
 
 ![Kind of slipping](https://media.giphy.com/media/DqY8dWBiMus24/giphy.gif)
 
 A penguin kind of slipping.
-
-## Elephants
-
-![Those shoes!](https://media.giphy.com/media/SWKyABQ08mbXW/giphy.gif)
-
-Those shoes... enough said!

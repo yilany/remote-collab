@@ -16,6 +16,12 @@ An otter grooming, and just saying "hey."
 
 A _waddle_ of penguins jumping.
 
+## Moose
+
+![Moose going through snow](https://media.giphy.com/media/OK5bgtzJ5u2Fa/giphy.gif)
+
+Moose running through snow.
+
 ---
 
 ![Kind of slipping](https://media.giphy.com/media/DqY8dWBiMus24/giphy.gif)

@@ -21,3 +21,9 @@ A _waddle_ of penguins jumping.
 ![Kind of slipping](https://media.giphy.com/media/DqY8dWBiMus24/giphy.gif)
 
 A penguin kind of slipping.
+
+## Elephants
+
+![Those shoes!](https://media.giphy.com/media/SWKyABQ08mbXW/giphy.gif)
+
+Those shoes... enough said!

@@ -54,7 +54,11 @@ For example, the image of the waddle of penguins jumping looks like:
 
 Now that we have embedded an image into your repository, we need to add a brief description of our image. If there is a group of animals of a given type in the image, we will _italicize_ the [collective noun](https://en.wikipedia.org/wiki/List_of_animal_names).
 
-In Markdown, normal text requires no fancy syntax: just write
+In Markdown, normally-styled text requires no fancy syntax: just write as you would normally. To _italicize_ some text, use the following syntax:
+
+	_some italicized text_
+	
+This will show up as: _some italicized text_.
 
 ## Add a Horizontal Rule (Divider)
 

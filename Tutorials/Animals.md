@@ -17,6 +17,7 @@ In order to do our job, we will learn a couple tools:
 3. [Add an Image](#add-an-image)
 4. [Add a Caption with Styled Text](#add-a-caption-with-styled-text)
 5. [Add a Horizontal Rule (Divider)](#add-a-horizontal-rule-divider)
+6. [Finishing Up](#finishing-up)
 
 ## Prereqs
 
@@ -62,3 +63,11 @@ If there are more than one image of a given type of animal, separate the images 
 	---
 	
 If there is only a single image of a given type of animal, don't worry about the divider!
+
+## Finishing Up
+
+Once you are happy with the contributions that you have made, leave a message (`Update Animals.md` will be submitted by default), and click the `Commit Changes` button to add your animal image to the repository.
+
+Thanks for supporting this noble cause!
+
+💡_For more advanced file editing techniques, check out the [Editing Files Tutorial](https://github.com/learninglab-dev/remote-collab/blob/master/Tutorials/Files.md)._

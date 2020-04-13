@@ -36,7 +36,7 @@ A penguin kind of slipping.
 
 ## Horses
 
-! [Just rollin' with it](https://images.app.goo.gl/Zvjo9c7VrKHXaYtP8)
+![Just rollin' with it](https://images.app.goo.gl/Zvjo9c7VrKHXaYtP8)
 
 A foal taking its first pilates class.
 

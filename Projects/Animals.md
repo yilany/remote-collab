@@ -40,3 +40,8 @@ A penguin kind of slipping.
 
 A foal taking its first pilates class.
 
+## Polar Bears
+
+![Polar bear love](https://media.giphy.com/media/rwqtumawean2o/giphy.gif) 
+
+Mama Bear and Baby Bear cuddle.

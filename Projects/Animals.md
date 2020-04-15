@@ -48,6 +48,6 @@ Mama Bear and Baby Bear cuddle.
 
 ## Cats
 
-![Cat musicians] (https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif)
+![Cat musicians](https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif)
 
 Girl, put your records on.

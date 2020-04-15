@@ -45,3 +45,9 @@ A foal taking its first pilates class.
 ![Polar bear love](https://media.giphy.com/media/rwqtumawean2o/giphy.gif) 
 
 Mama Bear and Baby Bear cuddle.
+
+## Cats
+
+![Cat musicians] (https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif)
+
+Girl, put your records on.

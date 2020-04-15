@@ -51,3 +51,9 @@ Mama Bear and Baby Bear cuddle.
 ![Cat musicians](https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif)
 
 Girl, put your records on.
+
+## Sloths
+
+![Sleepy sloths](https://www.pbh2.com/wordpress/wp-content/uploads/2012/10/funniest-animal-gifs-sloth-chilling.gif)
+
+A big ol' quarantine mood

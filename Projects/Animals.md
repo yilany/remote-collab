@@ -7,6 +7,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 ## Table of Contents
 
 - [Cats](#cats)
+- [Cows](#cows)
 - [Elephants](#elephants)
 - [Horses](#horses)
 - [Moose](#moose)
@@ -22,6 +23,12 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 ![Cat musicians](https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif)
 
 Girl, put your records on.
+
+## Cows
+
+![Cow kiss](https://media.giphy.com/media/kdicjggNCgM10dtqvO/giphy.gif) 
+
+He just wants to give a biiiiig kiss.
 
 ## Elephants
 

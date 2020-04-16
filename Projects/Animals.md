@@ -9,6 +9,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Cats](#cats)
 - [Cows](#cows)
 - [Elephants](#elephants)
+- [Goats](#goats)
 - [Horses](#horses)
 - [Moose](#moose)
 - [Otters](#otters)
@@ -35,6 +36,12 @@ He just wants to give a biiiiig kiss.
 ![Those shoes!](https://media.giphy.com/media/SWKyABQ08mbXW/giphy.gif)
 
 Those shoes... enough said!
+
+## Goats
+
+![Baby Goat](https://media.giphy.com/media/Lqmp9tVPIvtyyKQneQ/giphy.gif)
+
+Peekin' in to say hii!!!
 
 ## Horses
 

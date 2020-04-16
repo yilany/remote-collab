@@ -4,11 +4,23 @@ In these uncertain times, it is of critical importance to maintain a repository 
 
 Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) animal images here.
 
+## Cats
+
+![Cat musicians](https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif)
+
+Girl, put your records on.
+
 ## Elephants
 
 ![Those shoes!](https://media.giphy.com/media/SWKyABQ08mbXW/giphy.gif)
 
 Those shoes... enough said!
+
+## Horses
+
+![Just rollin' with it](https://data.whicdn.com/images/239453188/original.gif)
+
+A foal taking its first pilates class.
 
 ## Moose
 
@@ -34,23 +46,11 @@ A _waddle_ of penguins jumping.
 
 A penguin kind of slipping.
 
-## Horses
-
-![Just rollin' with it](https://data.whicdn.com/images/239453188/original.gif)
-
-A foal taking its first pilates class.
-
 ## Polar Bears
 
 ![Polar bear love](https://media.giphy.com/media/rwqtumawean2o/giphy.gif) 
 
 Mama Bear and Baby Bear cuddle.
-
-## Cats
-
-![Cat musicians](https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif)
-
-Girl, put your records on.
 
 ## Sloths
 

@@ -11,6 +11,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Elephants](#elephants)
 - [Goats](#goats)
 - [Horses](#horses)
+- [Llamas](#llamas)
 - [Moose](#moose)
 - [Otters](#otters)
 - [Penguins](#penguins)
@@ -43,11 +44,23 @@ Those shoes... enough said!
 
 Peekin' in to say hii!!!
 
+---
+
+![Freedom!](https://media.giphy.com/media/Wowj1abwRkpSo/giphy.gif)
+
+Us as soon as they let us out.
+
 ## Horses
 
 ![Just rollin' with it](https://data.whicdn.com/images/239453188/original.gif)
 
 A foal taking its first pilates class.
+
+## Llamas
+
+![Tired llama](https://thumbs.gfycat.com/CoordinatedInnocentKudu-small.gif)
+
+It's just one of those days.
 
 ## Moose
 

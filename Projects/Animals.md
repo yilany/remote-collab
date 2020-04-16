@@ -4,6 +4,19 @@ In these uncertain times, it is of critical importance to maintain a repository 
 
 Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) animal images here.
 
+## Table of Contents
+
+- [Cats](#cats)
+- [Elephants](#elephants)
+- [Horses](#horses)
+- [Moose](#moose)
+- [Otters](#otters)
+- [Penguins](#penguins)
+- [Polar Bears](#polar-bears)
+- [Sloths](#sloths)
+- [Turtles](#turtles)
+
+
 ## Cats
 
 ![Cat musicians](https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif)

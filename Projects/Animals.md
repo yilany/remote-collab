@@ -117,7 +117,9 @@ Me trying to talk to my crush.
 
 ---
 
-![Po](
+![Po](https://media.giphy.com/media/112TRnXkSiuGCQ/giphy.gif)
+
+Wait a minute...
 
 ## Pangolins
 

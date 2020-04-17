@@ -92,7 +92,7 @@ An otter grooming, and just saying "hey."
 
 ## Pangolins
 
-![Pangolin ball](https://giphy.com/gifs/pokemon-ball-original-14aTiZaU29wMVy)
+![Pangolin ball](https://media.giphy.com/media/14aTiZaU29wMVy/giphy.gif)
 
 Spirit animal of introverts everywhere.
 

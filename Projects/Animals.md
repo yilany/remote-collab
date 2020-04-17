@@ -61,7 +61,7 @@ Those shoes... enough said!
 
 ## Frogs
 
-![[Woops](https://media.giphy.com/media/4rzRRvv9XfcTC/giphy.gif)
+![[Woopsies](https://media.giphy.com/media/4rzRRvv9XfcTC/giphy.gif)
 
 "Hang on, Fran! I got ya! I got ya! I--"
 

@@ -90,6 +90,12 @@ Moose running through snow.
 
 An otter grooming, and just saying "hey." 
 
+---
+
+![Cuddles](https://media.giphy.com/media/vjKrEyy2NVblS/giphy.gif)
+
+Even this _raft_ of otters struggles with sharing the bed.
+
 ## Pangolins
 
 ![Pangolin ball](https://media.giphy.com/media/14aTiZaU29wMVy/giphy.gif)

@@ -19,10 +19,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Macaws](#macaws)
 - [Moose](#moose)
 - [Otters](#otters)
-- [Pandas](#pandas)
-- [Parakeets](#parakeets)
 - [Pangolins](#pangolins)
-- [Peacocks](#peacocks)
 - [Penguins](#penguins)
 - [Polar Bears](#polar-bears)
 - [Sloths](#sloths)
@@ -134,23 +131,11 @@ Me trying to talk to my crush.
 
 Wait a minute...
 
-## Parakeets
-
-![Cya](https://media.giphy.com/media/fZ1rhwcUBJTKvGhIaa/giphy.gif)
-
-He got voted off Love Island :(
-
 ## Pangolins
 
 ![Pangolin ball](https://media.giphy.com/media/14aTiZaU29wMVy/giphy.gif)
 
 Spirit animal of introverts everywhere.
-
-## Peacocks
-
-![Shakeit!](https://media.giphy.com/media/9Y5thftRDHmGpkGhEi/giphy.gif)
-
-Lemme see ya shimmy!
 
 ## Penguins
 

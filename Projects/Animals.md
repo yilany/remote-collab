@@ -16,6 +16,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Goats](#goats)
 - [Horses](#horses)
 - [Llamas](#llamas)
+- [Macaws](#macaws)
 - [Moose](#moose)
 - [Otters](#otters)
 - [Pandas](#pandas)
@@ -81,6 +82,12 @@ A foal taking its first pilates class.
 ![Tired llama](https://thumbs.gfycat.com/CoordinatedInnocentKudu-small.gif)
 
 It's just one of those days.
+
+## Macaws
+
+![Pat pat](https://media.giphy.com/media/Y5oWh5sA09hBe/giphy.gif)
+
+Good dog.
 
 ## Moose
 

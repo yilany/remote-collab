@@ -16,7 +16,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Llamas](#llamas)
 - [Moose](#moose)
 - [Otters](#otters)
-- [Pangolins] (#pangolins)
+- [Pangolins](#pangolins)
 - [Penguins](#penguins)
 - [Polar Bears](#polar-bears)
 - [Sloths](#sloths)
@@ -92,7 +92,7 @@ An otter grooming, and just saying "hey."
 
 ## Pangolins
 
-![Pangolin ball] (https://giphy.com/gifs/pokemon-ball-original-14aTiZaU29wMVy)
+![Pangolin ball](https://giphy.com/gifs/pokemon-ball-original-14aTiZaU29wMVy)
 
 Spirit animal of introverts everywhere.
 

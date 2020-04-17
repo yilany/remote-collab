@@ -136,7 +136,7 @@ Wait a minute...
 
 ## Parakeets
 
-![Cya](https://media.giphy.com/media/fZ1rhwcUBJTKvGhIaa/source.gif)
+![Cya](https://media.giphy.com/media/fZ1rhwcUBJTKvGhIaa/giphy.gif)
 
 He got voted off Love Island :(
 
@@ -148,7 +148,7 @@ Spirit animal of introverts everywhere.
 
 ## Peacocks
 
-![Shakeit!](peacock.gif)
+![Shakeit!](https://media.giphy.com/media/9Y5thftRDHmGpkGhEi/giphy.gif)
 
 Lemme see ya shimmy!
 

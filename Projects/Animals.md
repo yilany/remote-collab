@@ -148,7 +148,7 @@ Spirit animal of introverts everywhere.
 
 ## Peacocks
 
-![Shakeit!](https://media.giphy.com/media/9Y5thftRDHmGpkGhEi/giphy.gif)
+![Shakeit!](https://gph.is/2JyCHIz)
 
 Lemme see ya shimmy!
 

@@ -16,6 +16,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Llamas](#llamas)
 - [Moose](#moose)
 - [Otters](#otters)
+- [Pandas](#pandas)
 - [Pangolins](#pangolins)
 - [Penguins](#penguins)
 - [Polar Bears](#polar-bears)
@@ -95,6 +96,28 @@ An otter grooming, and just saying "hey."
 ![Cuddles](https://media.giphy.com/media/vjKrEyy2NVblS/giphy.gif)
 
 Even this _raft_ of otters struggles with sharing the bed.
+
+## Pandas
+
+![Omnomnom](https://media.giphy.com/media/N6funLtVsHW0g/giphy.gif)
+
+"Let me out of here!" (said me, in quarantine)
+
+---
+
+![Omnomnom2](https://media.giphy.com/media/l4JyPmgCnZ2IT0hUY/giphy.gif)
+
+A _cupboard_ of pandas getting their daily dose of leafy greens. 
+
+---
+
+![Flirting](https://media.giphy.com/media/l3vR33TV0vszF7rWg/giphy.gif)
+
+Me trying to talk to my crush.
+
+---
+
+![Po](
 
 ## Pangolins
 

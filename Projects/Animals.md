@@ -110,7 +110,7 @@ Even this _raft_ of otters struggles with sharing the bed.
 
 ## Parakeets
 
-![Cya](https://media.giphy.com/media/fZ1rhwcUBJTKvGhIaa/giphy.gif)
+![Cya](https://giphy.com/gifs/fZ1rhwcUBJTKvGhIaa/html5)
 
 He got voted off Love Island :(
 

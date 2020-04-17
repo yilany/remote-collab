@@ -6,6 +6,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 
 ## Table of Contents
 
+- [Axolotls](#axolotls)
 - [Cats](#cats)
 - [Cows](#cows)
 - [Dogs](#dogs)
@@ -15,12 +16,19 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Llamas](#llamas)
 - [Moose](#moose)
 - [Otters](#otters)
+- [Pangolins] (#pangolins)
 - [Penguins](#penguins)
 - [Polar Bears](#polar-bears)
 - [Sloths](#sloths)
 - [Turtles](#turtles)
-- [Axolotls](#axolotls)
 
+
+
+## Axolotls
+
+![Axolotl snacking](https://media.giphy.com/media/4YWu31EsM1ToJnAzqc/giphy.gif)
+
+This axolotl is me snacking in quarantine...
 
 ## Cats
 
@@ -82,6 +90,12 @@ Moose running through snow.
 
 An otter grooming, and just saying "hey." 
 
+## Pangolins
+
+![Pangolin ball] (https://giphy.com/gifs/pokemon-ball-original-14aTiZaU29wMVy)
+
+Spirit animal of introverts everywhere.
+
 ## Penguins
 
 ![Waddle of penguins jumping](https://media.giphy.com/media/aYTf2pXrF8Sgo/giphy.gif)
@@ -112,8 +126,4 @@ A big ol' quarantine mood
 
 He was a sk8er boi...
 
-## Axolotls
 
-![Axolotl snacking](https://media.giphy.com/media/4YWu31EsM1ToJnAzqc/giphy.gif)
-
-This axolotl is me snacking in quarantine...

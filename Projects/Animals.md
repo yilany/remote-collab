@@ -19,6 +19,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Polar Bears](#polar-bears)
 - [Sloths](#sloths)
 - [Turtles](#turtles)
+- [Koalas](#koalas)
 
 
 ## Cats
@@ -110,3 +111,9 @@ A big ol' quarantine mood
 ![Turtle skating](https://media.giphy.com/media/HuVCpmfKheI2Q/giphy.gif)
 
 He was a sk8er boi...
+
+## Koalas
+
+![Koala snacking](https://media.tenor.com/images/6da084aa1f442507e52189eb681598ba/tenor.gif)
+
+The leaves barely meet his _koalifications_.

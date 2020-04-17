@@ -13,6 +13,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Cows](#cows)
 - [Dogs](#dogs)
 - [Elephants](#elephants)
+- [Frogs](#frogs)
 - [Goats](#goats)
 - [Horses](#horses)
 - [Llamas](#llamas)
@@ -57,6 +58,12 @@ Who wants this burrito?
 ![Those shoes!](https://media.giphy.com/media/SWKyABQ08mbXW/giphy.gif)
 
 Those shoes... enough said!
+
+## Frogs
+
+![[Woops](https://media.giphy.com/media/4rzRRvv9XfcTC/giphy.gif)
+
+"Hang on, Fran! I got ya! I got ya! I--"
 
 ## Goats
 

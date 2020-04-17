@@ -23,6 +23,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Penguins](#penguins)
 - [Polar Bears](#polar-bears)
 - [Sloths](#sloths)
+- [Toucans](#toucans)
 - [Turtles](#turtles)
 
 
@@ -152,6 +153,12 @@ Mama Bear and Baby Bear cuddle.
 ![Sleepy sloths](https://www.pbh2.com/wordpress/wp-content/uploads/2012/10/funniest-animal-gifs-sloth-chilling.gif)
 
 A big ol' quarantine mood
+
+## Toucans
+
+![Who did that?](https://media.giphy.com/media/MB6nc19nH5ERy/giphy.gif)
+
+This toucan just got ding dong ditched.
 
 ## Turtles
 

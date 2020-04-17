@@ -8,6 +8,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 
 - [Cats](#cats)
 - [Cows](#cows)
+- [Dogs](#dogs)
 - [Elephants](#elephants)
 - [Goats](#goats)
 - [Horses](#horses)
@@ -31,6 +32,12 @@ Girl, put your records on.
 ![Cow kiss](https://media.giphy.com/media/kdicjggNCgM10dtqvO/giphy.gif) 
 
 He just wants to give a biiiiig kiss.
+
+## Dogs
+
+![Dog burrito](https://media.giphy.com/media/101kC6OJncUhi0/giphy.gif)
+
+Who wants this burrito?
 
 ## Elephants
 

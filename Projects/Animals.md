@@ -40,7 +40,7 @@ This axolotl is me snacking in quarantine...
 
 ![Chewing](https://media.giphy.com/media/qYr8p3Dzbet5S/giphy.gif)
 
-bRaCeS? ? ? ? ?
+bUt i dOn'T WaNNA geT bRaCeS mOm ! ! !
 
 ## Cats
 

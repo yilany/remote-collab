@@ -20,6 +20,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Moose](#moose)
 - [Otters](#otters)
 - [Pandas](#pandas)
+- [Parakeets](#parakeets)
 - [Pangolins](#pangolins)
 - [Penguins](#penguins)
 - [Polar Bears](#polar-bears)
@@ -106,6 +107,12 @@ An otter grooming, and just saying "hey."
 ![Cuddles](https://media.giphy.com/media/vjKrEyy2NVblS/giphy.gif)
 
 Even this _raft_ of otters struggles with sharing the bed.
+
+## Parakeets
+
+![Cya](https://media.giphy.com/media/fZ1rhwcUBJTKvGhIaa/giphy.gif)
+
+He got voted off Love Island :(
 
 ## Pandas
 

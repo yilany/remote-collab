@@ -2,6 +2,8 @@
 
 In these uncertain times, it is of critical importance to maintain a repository of (adorable) animal images.
 
+_Group names_ of animals are italicized!
+
 Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) animal images here.
 
 ## Table of Contents

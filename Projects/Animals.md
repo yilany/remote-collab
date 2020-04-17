@@ -22,6 +22,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Pandas](#pandas)
 - [Parakeets](#parakeets)
 - [Pangolins](#pangolins)
+- [Peacocks](#peacocks)
 - [Penguins](#penguins)
 - [Polar Bears](#polar-bears)
 - [Sloths](#sloths)
@@ -108,11 +109,6 @@ An otter grooming, and just saying "hey."
 
 Even this _raft_ of otters struggles with sharing the bed.
 
-## Parakeets
-
-![Cya](https://giphy.com/gifs/fZ1rhwcUBJTKvGhIaa/html5)
-
-He got voted off Love Island :(
 
 ## Pandas
 
@@ -138,11 +134,23 @@ Me trying to talk to my crush.
 
 Wait a minute...
 
+## Parakeets
+
+![Cya](https://giphy.com/gifs/fZ1rhwcUBJTKvGhIaa/html5)
+
+He got voted off Love Island :(
+
 ## Pangolins
 
 ![Pangolin ball](https://media.giphy.com/media/14aTiZaU29wMVy/giphy.gif)
 
 Spirit animal of introverts everywhere.
+
+## Peacocks
+
+![Shakeit!](https://media.giphy.com/media/9Y5thftRDHmGpkGhEi/giphy.gif)
+
+Lemme see ya shimmy!
 
 ## Penguins
 

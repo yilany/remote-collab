@@ -9,6 +9,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 ## Table of Contents
 
 - [Axolotls](#axolotls)
+- [Camels](#camels)
 - [Cats](#cats)
 - [Cows](#cows)
 - [Dogs](#dogs)
@@ -34,6 +35,12 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 ![Axolotl snacking](https://media.giphy.com/media/dx7S8WPt55Im3Oz6m0/giphy.gif)
 
 This axolotl is me snacking in quarantine...
+
+## Camels
+
+![Chewing](https://media.giphy.com/media/qYr8p3Dzbet5S/giphy.gif)
+
+bRaCeS? ? ? ? ?
 
 ## Cats
 

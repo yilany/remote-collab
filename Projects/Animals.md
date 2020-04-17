@@ -26,7 +26,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 
 ## Axolotls
 
-![Axolotl snacking](https://media.giphy.com/media/4YWu31EsM1ToJnAzqc/giphy.gif)
+![Axolotl snacking](https://media.giphy.com/media/dx7S8WPt55Im3Oz6m0/giphy.gif)
 
 This axolotl is me snacking in quarantine...
 

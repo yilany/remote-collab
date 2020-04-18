@@ -27,6 +27,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Sloths](#sloths)
 - [Toucans](#toucans)
 - [Turtles](#turtles)
+- [Pigs](#pigs)
 
 
 
@@ -162,6 +163,11 @@ A _waddle_ of penguins jumping.
 ![Kind of slipping](https://media.giphy.com/media/DqY8dWBiMus24/giphy.gif)
 
 A penguin kind of slipping.
+
+## Pigs
+![Piggy cuddles](https://media.giphy.com/media/5NpxMDTLLA1QQ/giphy.gif)
+
+_Tiny_ cuddles with a _tiny_ pig.
 
 ## Polar Bears
 
